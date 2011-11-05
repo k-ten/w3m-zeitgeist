@@ -1,0 +1,9 @@
+#+TITLE:     README.org
+#+AUTHOR:    Hironori OKAMOTO
+#+EMAIL:     k.ten87@gmail.com
+#+DATE:      2011-11-05 Sat
+
+Logging the your emacs-w3m activities with zeitgeist.
+
+* Required
+- zeitgeist.el :: https://launchpad.net/zeitgeist-datasources
